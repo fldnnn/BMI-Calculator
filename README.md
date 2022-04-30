@@ -1,5 +1,5 @@
 # BMI-Calculator 
-- Body Mass Index(BMI) calculator IOS app.  
+- Body Mass Index(BMI) calculator iOS app.  
 - It will calculate their body mass based on the user’s weight and height.
 
 
