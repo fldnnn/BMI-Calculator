@@ -3,4 +3,5 @@
 - It will calculate their body mass based on the user’s weight and height.
 
 
-This is a course by Angela Yu on Udemy.
+This project is from the Udemy course The Complete iOS App Development Bootcamp by Angela Yu.
+
